@@ -6,6 +6,14 @@
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg" height="300px" weight="300px" > <hr>
 <img src="https://www.computerhope.com/jargon/j/javascript.png"height="300px" weight="300px" ><hr>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" height="300px" weight="300px" ><hr>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="300px" weight="300px" ><hr>[
-](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="300px" weight="300px" ><hr>
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="300px" weight="300px" ><hr>
+
+
+<img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" height="300px" weight="300px" ><hr>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" height="300px" weight="300px" ><hr>
+
+
 <p>I'm waiting for you to drink coffee together ...   </p>
